@@ -1,0 +1,12 @@
+## Private and local data
+submissions.txt
+db_connect.local.php
+
+## Archives and operating-system files
+*.zip
+*.7z
+desktop.ini
+*.ico
+
+## Editor files
+.vscode/
